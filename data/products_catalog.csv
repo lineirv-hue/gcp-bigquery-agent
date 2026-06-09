@@ -1,0 +1,14 @@
+product_id,product_name,category,subcategory,unit_price,cost_price,stock_quantity,supplier,sku,description,is_active,created_date
+P101,Laptop Pro 15,Electronics,Computers,1299.99,850.00,45,TechSupply Co,LAP-PRO-15-2024,High-performance 15-inch laptop with 16GB RAM and 512GB SSD,true,2023-06-01
+P102,Wireless Mouse,Electronics,Peripherals,29.99,12.50,200,PeripheralHub,MOU-WRL-2024,Ergonomic wireless mouse with 2.4GHz connectivity,true,2023-06-01
+P103,USB-C Hub,Electronics,Accessories,49.99,22.00,150,PeripheralHub,HUB-USBC-7PT,7-port USB-C hub with HDMI and power delivery,true,2023-06-01
+P104,Monitor 27in,Electronics,Displays,449.99,290.00,30,DisplayWorld,MON-27-4K-2024,27-inch 4K IPS monitor with 144Hz refresh rate,true,2023-07-01
+P105,Keyboard Mech,Electronics,Peripherals,129.99,65.00,80,PeripheralHub,KEY-MECH-TKL,TKL mechanical keyboard with Cherry MX switches,true,2023-07-01
+P201,Office Chair,Furniture,Seating,349.99,180.00,25,FurniturePlus,CHR-OFF-ERG,Ergonomic office chair with lumbar support,true,2023-05-01
+P202,Standing Desk,Furniture,Desks,599.99,320.00,15,FurniturePlus,DSK-STD-ADJ,Height-adjustable standing desk 60x30 inches,true,2023-05-01
+P203,Bookshelf,Furniture,Storage,189.99,90.00,40,FurniturePlus,SHF-BOK-5T,5-tier wooden bookshelf,true,2023-05-01
+P301,Running Shoes,Apparel,Footwear,89.99,42.00,120,SportGear Inc,SHO-RUN-M10,Lightweight running shoes with cushioned sole,true,2023-04-01
+P302,Yoga Mat,Apparel,Fitness,39.99,15.00,200,SportGear Inc,MAT-YOG-6MM,Non-slip 6mm thick yoga mat,true,2023-04-01
+P303,Sports Bag,Apparel,Accessories,59.99,28.00,90,SportGear Inc,BAG-SPT-35L,35L waterproof sports duffel bag,true,2023-04-01
+P304,Running Shorts,Apparel,Clothing,34.99,14.00,160,SportGear Inc,SHT-RUN-M,Moisture-wicking running shorts,true,2023-04-01
+P305,Compression Tights,Apparel,Clothing,44.99,20.00,110,SportGear Inc,TGT-CMP-M,Compression performance tights,true,2023-04-01
