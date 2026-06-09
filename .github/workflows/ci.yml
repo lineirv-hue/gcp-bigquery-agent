@@ -9,7 +9,7 @@ on:
 jobs:
   lint-and-test:
     name: Lint & Integration Tests
-    runs-on: self-hosted   # your local GitHub Actions runner
+    runs-on: [self-hosted]
 
     env:
       GCP_PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
